@@ -1,5 +1,5 @@
 # 💫 About Me:
-'m dcip. I am starting from the ground up to understand how computers, networks, and software really work.<br>
+I'm dcip. I am starting from the ground up to understand how computers, networks, and software really work.<br>
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dcip&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
